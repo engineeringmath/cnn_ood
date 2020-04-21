@@ -1,6 +1,11 @@
 
-Code for paper:     Improving Calibration and Out-of-Distribution Detection in Medical Image Segmentation with Convolutional Neural Networks
-By:                 Davood Karimi and Ali Gholipour
+Code for paper:     
+
+Improving Calibration and Out-of-Distribution Detection in Medical Image Segmentation with Convolutional Neural Networks
+
+By:                
+
+Davood Karimi and Ali Gholipour
 
 Submitted to IEEE TMI
 
